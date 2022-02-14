@@ -1,0 +1,15 @@
+C:\Users\weronika\OneDrive - ООО ФЛЕКСПРИНТ\Рабочий стол\Павлик\Обучение\geek\C#_education\HomeWork\C-\HomeWork\HomeWork_03\Example_20_quarter\bin\Debug\net6.0\Example_20_quarter.exe
+C:\Users\weronika\OneDrive - ООО ФЛЕКСПРИНТ\Рабочий стол\Павлик\Обучение\geek\C#_education\HomeWork\C-\HomeWork\HomeWork_03\Example_20_quarter\bin\Debug\net6.0\Example_20_quarter.deps.json
+C:\Users\weronika\OneDrive - ООО ФЛЕКСПРИНТ\Рабочий стол\Павлик\Обучение\geek\C#_education\HomeWork\C-\HomeWork\HomeWork_03\Example_20_quarter\bin\Debug\net6.0\Example_20_quarter.runtimeconfig.json
+C:\Users\weronika\OneDrive - ООО ФЛЕКСПРИНТ\Рабочий стол\Павлик\Обучение\geek\C#_education\HomeWork\C-\HomeWork\HomeWork_03\Example_20_quarter\bin\Debug\net6.0\Example_20_quarter.dll
+C:\Users\weronika\OneDrive - ООО ФЛЕКСПРИНТ\Рабочий стол\Павлик\Обучение\geek\C#_education\HomeWork\C-\HomeWork\HomeWork_03\Example_20_quarter\bin\Debug\net6.0\ref\Example_20_quarter.dll
+C:\Users\weronika\OneDrive - ООО ФЛЕКСПРИНТ\Рабочий стол\Павлик\Обучение\geek\C#_education\HomeWork\C-\HomeWork\HomeWork_03\Example_20_quarter\bin\Debug\net6.0\Example_20_quarter.pdb
+C:\Users\weronika\OneDrive - ООО ФЛЕКСПРИНТ\Рабочий стол\Павлик\Обучение\geek\C#_education\HomeWork\C-\HomeWork\HomeWork_03\Example_20_quarter\obj\Debug\net6.0\Example_20_quarter.csproj.AssemblyReference.cache
+C:\Users\weronika\OneDrive - ООО ФЛЕКСПРИНТ\Рабочий стол\Павлик\Обучение\geek\C#_education\HomeWork\C-\HomeWork\HomeWork_03\Example_20_quarter\obj\Debug\net6.0\Example_20_quarter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\weronika\OneDrive - ООО ФЛЕКСПРИНТ\Рабочий стол\Павлик\Обучение\geek\C#_education\HomeWork\C-\HomeWork\HomeWork_03\Example_20_quarter\obj\Debug\net6.0\Example_20_quarter.AssemblyInfoInputs.cache
+C:\Users\weronika\OneDrive - ООО ФЛЕКСПРИНТ\Рабочий стол\Павлик\Обучение\geek\C#_education\HomeWork\C-\HomeWork\HomeWork_03\Example_20_quarter\obj\Debug\net6.0\Example_20_quarter.AssemblyInfo.cs
+C:\Users\weronika\OneDrive - ООО ФЛЕКСПРИНТ\Рабочий стол\Павлик\Обучение\geek\C#_education\HomeWork\C-\HomeWork\HomeWork_03\Example_20_quarter\obj\Debug\net6.0\Example_20_quarter.csproj.CoreCompileInputs.cache
+C:\Users\weronika\OneDrive - ООО ФЛЕКСПРИНТ\Рабочий стол\Павлик\Обучение\geek\C#_education\HomeWork\C-\HomeWork\HomeWork_03\Example_20_quarter\obj\Debug\net6.0\Example_20_quarter.dll
+C:\Users\weronika\OneDrive - ООО ФЛЕКСПРИНТ\Рабочий стол\Павлик\Обучение\geek\C#_education\HomeWork\C-\HomeWork\HomeWork_03\Example_20_quarter\obj\Debug\net6.0\ref\Example_20_quarter.dll
+C:\Users\weronika\OneDrive - ООО ФЛЕКСПРИНТ\Рабочий стол\Павлик\Обучение\geek\C#_education\HomeWork\C-\HomeWork\HomeWork_03\Example_20_quarter\obj\Debug\net6.0\Example_20_quarter.pdb
+C:\Users\weronika\OneDrive - ООО ФЛЕКСПРИНТ\Рабочий стол\Павлик\Обучение\geek\C#_education\HomeWork\C-\HomeWork\HomeWork_03\Example_20_quarter\obj\Debug\net6.0\Example_20_quarter.genruntimeconfig.cache
